@@ -2,10 +2,6 @@
 
 A production-ready **Retrieval-Augmented Generation (RAG)** application that allows users to upload multiple PDF documents and ask natural language questions. The system intelligently retrieves relevant context and generates accurate, grounded answers using a HuggingFace language model.
 
-> Built during academic internship at **Global Quest Technologies, Bengaluru (Yelahanka)**
-> **Author:** Pruthvi Shivanand Shegavi | [LinkedIn](https://www.linkedin.com/in/pruthvi-s-shegavi-73612a379) | [GitHub](https://github.com/Pruthviss)
-
----
 
 ## 🎯 Problem Statement
 
